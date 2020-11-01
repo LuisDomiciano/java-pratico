@@ -1,0 +1,2 @@
+# Exercício 04
+Escreva um programa que calcule e mostre a média aritmética de 4 (quatro) notas, cujos valores variam de 0,0 a 10,0. Ao apresentar a média, o programa também deverá apresentar a mensagem “Aprovado”, caso a média seja maior ou igual a 7,0; “Exame”, caso a média seja maior ou igual a 4,0; e “Reprovado”, caso a média seja menor que 4,0
