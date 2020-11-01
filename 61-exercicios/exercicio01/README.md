@@ -1,0 +1,2 @@
+# Exercício 01
+Dados 3 (três) valores inteiros e positivos, escreva um programa que verifique se os mesmos formam os lados de um triângulo. Se não formarem os lados de um triângulo, uma mensagem de alerta deve ser apresentada ao usuário e o programa encerrado. Caso formem os lados de um triângulo, o programa deverá verificar qual triângulo é formado pelos valores e exibir uma mensagem de acordo com o tipo do triângulo: Isósceles, Equilátero ou Escaleno.

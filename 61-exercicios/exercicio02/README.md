@@ -1,0 +1,2 @@
+# Exercício 02
+Fulano tem 1,70 cm de altura e cresce 2 cm por ano, Cicrano tem 1,50 cm de altura e cresce 4 cm por ano. Escreva um programa que calcule quanto tempo será necessário para que Cicrano seja maior que Fulano.
