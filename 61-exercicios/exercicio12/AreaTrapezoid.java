@@ -9,7 +9,7 @@ public class AreaTrapezoid {
         int altitude = Integer.parseInt(JOptionPane.showInputDialog(null, "Digite a altura:"));
         int area = area(longBase, shortBase, altitude);
 
-        JOptionPane.showMessageDialog(null, "Area do Trapezio: " + area);
+        JOptionPane.showMessageDialog(null, "Area do Trapezio: " + area);   
 
     }
     static int area (int longBase, int shortBase, int altitude) {
